@@ -1,0 +1,10 @@
+#idLogo {
+    font-family:'Roboto', sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+body {
+    background-image: url(../img/photo-1465056836041-7f43ac27dcb5.avif);
+    background-repeat: no-repeat;
+}
